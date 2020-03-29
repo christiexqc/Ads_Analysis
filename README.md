@@ -3,6 +3,7 @@
 Ads Analysis
 
 Data: ad_table.csv
+
 Notebook: ads_analysis.ipynb
 
 The data is from a food delivery company,At the moment, they are running 40 different ad campaigns and they are interested to understand their performance of these campigns.
